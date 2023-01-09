@@ -1,5 +1,10 @@
-### Nintendont
-A Wii Homebrew Project to play GC Games on Wii and vWii on Wii U
+### Riders Nintendont
+A modified build of Nintendont, designed for playing oversized Gamecube ISOs that exist for some Gamecube mods
+
+### Changes from Mainline Nintendont
+* Does not crash when loading oversized ISos
+* Menu colour for oversized ISOs
+* A new background, based on Sonic Riders
 
 ### Features:
 * Works on Wii and Wii U (in vWii mode)
@@ -47,6 +52,8 @@ For compile Nintendont yourself, get the following versions of the toolchain com
 * **libOGC 1.8.23-1**
 
 These versions can be downloaded here: https://www.mediafire.com/folder/j0juqb5vvd6z5/devkitPro_archives
+
+Make sure that they are on your path (including the bin subdirectories), if using Windows.
 
 On Windows, run the "Build.bat" batch script for build Nintendont.
 
