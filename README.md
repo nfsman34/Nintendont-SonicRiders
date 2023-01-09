@@ -1,7 +1,7 @@
 ### Riders Nintendont
 A modified build of Nintendont, designed for playing oversized Gamecube ISOs that exist for some Gamecube mods
 
-### Changes from Mainline Nintendont
+### Changes from Mainline Nintendont:
 * Does not crash when loading oversized ISos
 * Menu colour for oversized ISOs
 * A new background, based on Sonic Riders
